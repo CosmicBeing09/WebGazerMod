@@ -77,57 +77,6 @@ The following browsers support WebGazer.js:
   * Opera
   * Safari
 
-## Publications
-
-  _**Note:** The current iteration of WebGazer no longer corresponds with the WebGazer described in the following publications and which can be found [here](https://github.com/brownhci/WebGazer/tree/2a4a70cb49b2d568a09362e1b52fd3bd025cd38d)._
-
-	@inproceedings{papoutsaki2016webgazer,
-	author     = {Alexandra Papoutsaki and Patsorn Sangkloy and James Laskey and Nediyana Daskalova and Jeff Huang and James Hays},
-	title      = {{WebGazer}: Scalable Webcam Eye Tracking Using User Interactions},
-    booktitle  = {Proceedings of the 25th International Joint Conference on Artificial Intelligence (IJCAI-16)},
-    pages      = {3839--3845},
-	year       = {2016},
-	organization={AAAI}
-	}
-
-	@inproceedings{papoutsaki2017searchgazer,
-	author     = {Alexandra Papoutsaki and James Laskey and Jeff Huang},
-    title      = {SearchGazer: Webcam Eye Tracking for Remote Studies of Web Search},
-    booktitle  = {Proceedings of the ACM SIGIR Conference on Human Information Interaction \& Retrieval (CHIIR)},
-    year       = {2017},
-    organization={ACM}
-    }
-
-    @inproceedings{papoutsaki2018eye,
-    author={Papoutsaki, Alexandra and Gokaslan, Aaron and Tompkin, James and He, Yuze and Huang, Jeff},
-    title={The eye of the typer: a benchmark and analysis of gaze behavior during typing.},
-    booktitle={Proceedings of the 2018 ACM Symposium on Eye Tracking Research \& Applications (ETRA)},
-    pages={16--1},
-    year={2018},
-    organization={ACM}
-    }
-
-
-
-## Who We Are
-
-  * Alexandra Papoutsaki
-  * Aaron Gokaslan
-  * Ida De Smet
-  * Xander Koo
-  * James Tompkin
-  * Jeff Huang
-
-## Other Collaborators
-
-  * Nediyana Daskalova
-  * James Hays
-  * Yuze He
-  * James Laskey
-  * Patsorn Sangkloy
-  * Elizabeth Stevenson
-  * Preston Tunnell Wilson
-  * Jack Wong
 
 ### Acknowledgements
 
